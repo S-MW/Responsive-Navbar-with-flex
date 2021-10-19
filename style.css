@@ -56,7 +56,11 @@ p{
     cursor: pointer;
     border-radius: 20ch;
 }
-
+.loginButton:hover{
+    background-color: white; 
+    color: #0bcc8b;
+    font-weight: 600 !important;
+}
 /* ---------- Responsive ---------- */
 /* ---------- Responsive ---------- */
 /* ---------- Responsive ---------- */
